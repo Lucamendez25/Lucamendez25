@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Méndez</h1>
 <h3 align="center">Welcome to my Github profile, I am 19-year-old programming enthusiast currently studying at the Universidad Tecnológica Nacional (UTN). I have a deep passion for software development and a strong drive to continuously learn and explore cutting-edge technologies.</h3>
 
-<p align="center">
-  <img src="https://github.com/Lucamendez25/Lucamendez25/assets/98615614/76a6f4cd-4cf6-4bb8-bb7a-c6a05c2c1a6a" alt="Música-y-videojuegos gif">
-</p>
+![Música-y-videojuegos gif](https://github.com/Lucamendez25/Lucamendez25/assets/98615614/50c62192-3830-4feb-970a-e9782219402f)
 
 
 <h3 align="left">Connect with me:</h3>
